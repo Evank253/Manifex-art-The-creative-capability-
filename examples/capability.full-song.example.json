@@ -1,0 +1,10 @@
+{
+  "id": "MUSIC-GEN-001",
+  "name": "Full-song generation",
+  "domain": "FULL_SONG",
+  "description": "First investigation target for MANIFEX-CCI-001.",
+  "source_url": "NOT_MEASURED",
+  "source_version": "NOT_MEASURED",
+  "source_revision": "",
+  "implementation_status": "NOT_MEASURED"
+}
